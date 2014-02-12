@@ -5,7 +5,7 @@
 #include <string.h>
 #include <stdbool.h>
 #include "reddit.h"
-#include <ncurses.h>
+#include CURSES_INC
 #include <form.h>
 #include <locale.h>
 
